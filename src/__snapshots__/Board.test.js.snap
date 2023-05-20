@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <table>
+    <tbody>
+      <tr>
+        <td
+          class="Cell "
+          data-testid="cell-element"
+        />
+        <td
+          class="Cell Cell-lit"
+          data-testid="cell-element"
+        />
+        <td
+          class="Cell Cell-lit"
+          data-testid="cell-element"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell "
+          data-testid="cell-element"
+        />
+        <td
+          class="Cell Cell-lit"
+          data-testid="cell-element"
+        />
+        <td
+          class="Cell Cell-lit"
+          data-testid="cell-element"
+        />
+      </tr>
+      <tr>
+        <td
+          class="Cell Cell-lit"
+          data-testid="cell-element"
+        />
+        <td
+          class="Cell Cell-lit"
+          data-testid="cell-element"
+        />
+        <td
+          class="Cell Cell-lit"
+          data-testid="cell-element"
+        />
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
